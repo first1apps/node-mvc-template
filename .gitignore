@@ -1,2 +1,12 @@
+# IDE
 /.idea/
 /*.iml
+
+# Node
+/node_modules
+/.nodemonignore
+/npm-debug.log
+/public/lib
+
+# Generated Files
+/public/modules/*.less.css
